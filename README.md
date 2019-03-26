@@ -1,11 +1,5 @@
-# SmartBrain-api - v2
-Final project for Udemy course
+# SmartBrain - Facial Recognition App
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-4. You must add your own API key in the `controllers/image.js` file to connect to Clarifai API.
+Final (back-end) project for Udemy course (https://www.udemy.com/the-complete-web-developer-zero-to-mastery/) See: https://smart-brain-jnasingleton.herokuapp.com/ (Please wait for Heroku server to wake from hibernation).
 
-You can grab Clarifai API key [here](https://www.clarifai.com/)
-
-** Make sure you use postgreSQL instead of mySQL for this code base.
+Note that no additional changes have been made. Changes that could be implemented include: multiple face bounding boxes, leaderboard component, and enhanced authorization/security.
